@@ -1,4 +1,4 @@
-# Crypto forecasting with feedforward and LSTM neural networks
+# Forecasting with feedforward and LSTM neural networks
 
 ## Paper & assoicated research
 Read <a href="https://github.com/ShrutiAppiah/crypto-forecasting-with-neuralnetworks/blob/master/Catastrophes%20in%20volatile%20financial%20markets.pdf"> paper. </a>
