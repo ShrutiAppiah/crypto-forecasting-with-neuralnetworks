@@ -19,7 +19,7 @@ Read <a href="https://github.com/ShrutiAppiah/crypto-forecasting-with-neuralnetw
 
 ## Overview
 <div align="center">
-		<img src="Poster.jpg" alt="poster">
+		<img src="Slide1.jpeg" alt="poster">
 		<br>
 		<br>
 </div>
