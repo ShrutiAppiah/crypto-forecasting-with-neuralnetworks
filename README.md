@@ -8,7 +8,7 @@ Read <a href="https://github.com/ShrutiAppiah/crypto-forecasting-with-neuralnetw
 - Noise helps optimizers escape saddle points and local maxima/minima
 
 ### Vanishing gradients are a problem. LSTM units save the day.
-- LSTM (Long Short-term Memory) neural networks are mindful of long-term dependencies. They remember things from the past just like your girlfriend does. Read more about gradient descents <a href="https://en.wikipedia.org/wiki/Gradient_descent"> gradient descents. </a> 
+- LSTM (Long Short-term Memory) neural networks are mindful of long-term dependencies. They remember things from the past just like your girlfriend does. Read more about <a href="https://en.wikipedia.org/wiki/Gradient_descent"> gradient descents. </a> 
 
 ### Adam optimizers can recalculate neuron weights based on both first and second order moments
 - Adam optimizers combine Adaptive Gradient (AdaGrad) and Root Mean Square Propogation (RMS Prop) calculators. 
