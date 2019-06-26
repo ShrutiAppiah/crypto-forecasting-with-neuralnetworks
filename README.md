@@ -12,7 +12,7 @@ Read our <a href="https://github.com/ShrutiAppiah/crypto-forecasting-with-neural
 
 ### Adam optimizers can recalculate neuron weights based on both first and second order moments
 - Adam optimizers combine Adaptive Gradient (AdaGrad) and Root Mean Square Propogation (RMS Prop) calculators. 
-- In a distribution, the first-oder moment is the mean. The second-order moment is the variance.
+- In a distribution, the first-order moment is the mean. The second-order moment is the variance.
 - AdaGrad is great at handling sparse gradients. It calculates second-order moments based on multiple past gradients.
 - RMSProp is based solely on first-order moments i.e means.
 - Combined, the Adam Optimizer produces more sensible learning rates in each iteration.
