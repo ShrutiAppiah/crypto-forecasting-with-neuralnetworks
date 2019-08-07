@@ -23,3 +23,8 @@ Read our <a href="https://github.com/ShrutiAppiah/crypto-forecasting-with-neural
 		<br>
 		<br>
 </div>
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Copyright (c) 2018 Shruti Appiah
