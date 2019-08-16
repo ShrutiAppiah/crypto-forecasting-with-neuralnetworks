@@ -1,7 +1,7 @@
 # Forecasting with feedforward and LSTM neural networks
 
 ## Paper & assoicated research
-Read our <a href="https://github.com/ShrutiAppiah/crypto-forecasting-with-neuralnetworks/blob/master/Catastrophes%20in%20volatile%20financial%20markets.pdf"> research paper. </a>
+Read the <a href="https://github.com/ShrutiAppiah/crypto-forecasting-with-neuralnetworks/blob/master/Catastrophes%20in%20volatile%20financial%20markets.pdf"> research paper. </a>
 
 ## Highlights
 ### Noise can sometimes be good!
