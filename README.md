@@ -19,7 +19,7 @@ Read our <a href="https://github.com/ShrutiAppiah/crypto-forecasting-with-neural
 
 ## Overview
 <div align="center">
-		<img src="poster1.png" alt="poster">
+		<img src="Research Summary.png" alt="Research Summary">
 		<br>
 		<br>
 </div>
